@@ -3,24 +3,24 @@
 
 ![192114009-0830321a-d227-4a4d-8411-6c03b54d7ce6](https://user-images.githubusercontent.com/85143283/193421745-be806853-f40c-44f3-9bed-fb083615635b.png)
 
-Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code presented by Digital Ocean and DEV this year in 2022.
+Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long festival of open source code that is being presented by Digital Ocean and DEV this year in 2022.
 
 <!-- ---------------------------------------------------------------------- -->
 
-During the entire month of October 2022, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
+During the entire month of October 2022, all you have to do is to contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
 
 # Coding-Linguistic
 
 ### INTRODUCTION
-The goal of this repository is to have in a single place all important problems algorithms and data structures - in multiple languages. Feel free to make your contribution. Do not create folders in your submissions, ask the maintainer first in the comment of the issue.
+The goal of this repository is to have in a single place all important problems, algorithms and data structures - in multiple languages. Feel free to make your contribution. Do not create folders in your submissions, ask the maintainer first in the comment of the issue.
 
 ### Contribution Guidelines
 
-First and foremost create issue of the contribution you need to make. The contribution can be of listed types only:
+First and foremost create issue of the contribution that you need to make. The contribution can be of listed types only:
 
 ``` You need to make changes to existing code. ```
 
-``` You need to add solutions/algorithm to the problem listed in Question folder. ```
+``` You need to add solutions/algorithms to the problem listed in Question folder. ```
 
 ``` You can go with C,C++,Java,Python languages only. ```
 
