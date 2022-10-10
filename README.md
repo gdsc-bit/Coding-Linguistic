@@ -9,20 +9,18 @@ Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a mon
 
 During the entire month of October 2022, all you have to do is contribute to any open source projects and open at least 4 pull requests. Yes, any project and any kind of contributions. It can be a be a bug fix, improvement, or even a documentation change! And win a T-Shirt and awesome stickers.
 
-If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities (and yes, there are always plenty for beginners too).
-
 # Coding-Linguistic
 
 ### INTRODUCTION
 The goal of this repository is to have in a single place all important problems algorithms and data structures - in multiple languages. Feel free to make your contribution. Do not create folders in your submissions, ask the maintainer first in the comment of the issue.
 
 ### Contribution Guidelines
-The aim is to teach each contributor, how actually the Open source contribution works.
 
 First and foremost create issue of the contribution you need to make. The contribution can be of listed types only:
 
-> You need to make changes to existing code
-> You need to add solutions/algorithm to the problem listed.
+- **You need to make changes to existing code.**
+
+- **You need to add solutions/algorithm to the problem listed in **Question** folder**.
 
 In any case, you first have to go to issues tab and create a new issue and please wait for it to be assigned to you. You can then start working on it and create a PR.
 
