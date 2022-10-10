@@ -18,9 +18,12 @@ The goal of this repository is to have in a single place all important problems 
 
 First and foremost create issue of the contribution you need to make. The contribution can be of listed types only:
 
-- **You need to make changes to existing code.**
+``` You need to make changes to existing code. ```
 
-- **You need to add solutions/algorithm to the problem listed in **Question** folder**.
+``` You need to add solutions/algorithm to the problem listed in Question folder. ```
+
+``` You can go with C,C++,Java,Python languages only. ```
+
 
 In any case, you first have to go to issues tab and create a new issue and please wait for it to be assigned to you. You can then start working on it and create a PR.
 
@@ -31,7 +34,7 @@ All PRs must be made from a Branch. Create a separate branch for every issue you
 You can add your code in my repository for Merge
 
 ***Steps to Contribute to this Repo***
-
+```
 > First Star this Repo (Important)
 
 > Then Fork this Repo
@@ -43,6 +46,7 @@ You can add your code in my repository for Merge
 > Repeated codes will not be merged.
 
 > The quality of pull requests is paramount,quantity comes second.
+```
 
 I'll make sure to merge it in my repository.
 
