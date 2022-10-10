@@ -33,6 +33,17 @@ System.out.println("Stack underflows");
  else
  System.out.println("POP:"+(stk[tos--])+" ");
  }
+ public int peek()
+    {
+        if (tos == -1) {
+            Console.WriteLine("Stack is Empty");
+            return -1;
+        }
+        else {
+            Console.WriteLine("{0} popped from stack ", stk[top]);
+            return stk[top];
+        }
+    }
 }
 class DynStack extends FixedStack implements stackop
 {
