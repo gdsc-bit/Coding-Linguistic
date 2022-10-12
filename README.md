@@ -12,11 +12,11 @@ During the entire month of October 2022, all you have to do is contribute to any
 # Coding-Linguistic
 
 ### INTRODUCTION
-The goal of this repository is to have in a single place all important problems algorithms and data structures - in multiple languages. Feel free to make your contribution. Do not create folders in your submissions, ask the maintainer first in the comment of the issue.
+The goal of this repository is to have all important problems, algorithms and data structures in a single place - in multiple languages. Feel free to make your contribution. Do not create folders in your submissions, ask the maintainer first in the comment of the issue.
 
 ### Contribution Guidelines
 
-First and foremost create issue of the contribution you need to make. The contribution can be of listed types only:
+First and foremost, create an issue of the contribution that you need to make. The contribution can be of listed types only:
 
 ``` You need to make changes to existing code. ```
 
