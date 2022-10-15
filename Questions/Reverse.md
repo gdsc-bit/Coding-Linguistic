@@ -1,6 +1,6 @@
 # Reverse an array 
 
-> Given an array (or string), the task is to reverse the array/string.
+> Given an array, the task is to reverse the array.
 ### Sample Input
 Input 1:
 arr[]={1,2,3}
